@@ -11,3 +11,14 @@
 - Add conventions: **bold** is for actions, for example
 - add prerequisities; "you should already have x installed"
 
+To set up correct navigation order for your published site, make changes in mkdocs.yml, like this: 
+
+nav:
+  - Home: "index.md"
+  - Project Structure: "pages/project-structure.md"
+  - Configuration: "pages/configuration.md"
+  - Installing Express: "pages/installing-express.md"
+  - Routes & Routers: "pages/routes.md"
+  - Middleware: "pages/middleware.md"
+  - Troubleshooting: "pages/troubleshooting.md"
+  - Glossary: "pages/glossary.md"
