@@ -1,4 +1,4 @@
-# Start here
+# Each page needs a heading
 
 - Each set needs an intro/overview.
 - Each set needs a conclusion to show user what success looks like.
@@ -9,3 +9,7 @@
 1. Steps look like line 3. Line 2 is incorrect.
 1. **Step 2: Doing x** is not a correct step. It does not need the word Step, only the number followed by an action verb, as in the next step
 2. **Left click** on x
+
+- Separate subsections with subheadings if needed
+- Total number of steps for each page should be a minimum of 10
+
