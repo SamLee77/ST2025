@@ -15,10 +15,8 @@ To set up correct navigation order for your published site, make changes in mkdo
 
 nav:
   - Home: "index.md"
-  - Project Structure: "pages/project-structure.md"
-  - Configuration: "pages/configuration.md"
-  - Installing Express: "pages/installing-express.md"
-  - Routes & Routers: "pages/routes.md"
-  - Middleware: "pages/middleware.md"
-  - Troubleshooting: "pages/troubleshooting.md"
-  - Glossary: "pages/glossary.md"
+  - First page: "Set-1.md"
+  - Second page: "Set2.md"
+  - Third page: "Set3.md"
+  - Troubleshooting: "Troubleshooting.md"
+  - Glossary: "Glossary.md"
