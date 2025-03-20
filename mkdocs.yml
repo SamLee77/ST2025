@@ -2,3 +2,12 @@ site_name: Change to the name of your docs
 site_url: https://samlee77.github.io/ST2025/
 theme:
   name: material
+nav:
+  - Home: "index.md"
+  - Project Structure: ""
+  - Configuration: "pages/configuration.md"
+  - Installing Express: "pages/installing-express.md"
+  - Routes & Routers: "pages/routes.md"
+  - Middleware: "pages/middleware.md"
+  - Troubleshooting: "Troubleshooting.md"
+  - Glossary: "Glossary.md"
