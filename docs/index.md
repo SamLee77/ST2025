@@ -1,6 +1,6 @@
 # This is your introduction page
 
-**Do not rename index.md**
+**Do not rename this file. It is index.md and mkdocs-material looks for it to build the Homepage**
 
 **This list is not in order**
 
