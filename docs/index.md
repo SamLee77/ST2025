@@ -1,5 +1,7 @@
 # This is your introduction page
 
+**Do not rename index.md**
+
 **This list is not in order**
 
 - Add purpose of software
@@ -8,3 +10,4 @@
 - Add admonitions and show what they will be used for
 - Add conventions: **bold** is for eactions, for example
 - add prerequisities; "you should already have x installed"
+
