@@ -1,19 +1,10 @@
-# Welcome to MkDocs
+# This is your introduction page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+**This list is not in order**
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
-
-test
+- Add purpose of software
+- Add purpose of your specific instruction pages
+- Add intended user and level of user: terms like beginner or intermediate are vague: what can a beginner do? What can an intermdiate do and what do they already know?
+- Add admonitions and show what they will be used for
+- Add conventions: **bold** is for eactions, for example
+- add prerequisities; "you should already have x installed"
